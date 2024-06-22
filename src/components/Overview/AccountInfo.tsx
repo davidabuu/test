@@ -3,31 +3,31 @@ const AccountInfo = () => {
     <div className="bg-white text-gray-500 shadow-md rounded-md">
       <h2 className="text-xl text-gray-800 p-4 font-bold mb-4">Account Info</h2>
 
-      <div className="border-t border-gray-200 px-4 py-3 flex flex-col lg:flex-row items-center justify-between">
+      <div className="border-t border-gray-200 px-4 py-3 flex flex-col sm:flex-row items-start sm:items-center justify-between">
         <h3 className="text-lg font-semibold mb-2 lg:mb-0">Account ID</h3>
         <p className="text-gray-600 mb-2 lg:mb-0">psn_11k44k99wv8ahk</p>
       </div>
 
-      <div className="border-t border-gray-200 px-4 py-3 flex flex-col lg:flex-row items-center justify-between">
+      <div className="border-t border-gray-200 px-4 py-3 flex flex-col sm:flex-row items-start sm:items-center justify-between">
         <h3 className="text-lg font-semibold mb-2 lg:mb-0">Status</h3>
         <p className="text-gray-600 mb-2 lg:mb-0">Open</p>
       </div>
 
-      <div className="border-t border-gray-200 px-4 py-3 flex flex-col lg:flex-row items-center justify-between">
+      <div className="border-t border-gray-200 px-4 py-3 flex flex-col sm:flex-row items-start sm:items-center justify-between">
         <h3 className="text-lg font-semibold mb-2 lg:mb-0">Account Product</h3>
         <p className="text-blue-600 mb-2 font-medium lg:mb-0">
           Personal Checking
         </p>
       </div>
 
-      <div className="border-t border-gray-200 px-4 py-3 flex flex-col lg:flex-row items-center justify-between">
+      <div className="border-t border-gray-200 px-4 py-3 flex flex-col sm:flex-row items-start sm:items-center justify-between">
         <h3 className="text-lg font-semibold mb-2 lg:mb-0">
           Account Structure
         </h3>
         <p className="text-gray-600 mb-2 lg:mb-0">Ledger</p>
       </div>
 
-      <div className="border-t border-gray-200 px-4 py-3 flex flex-col lg:flex-row items-center justify-between">
+      <div className="border-t border-gray-200 px-4 py-3 flex flex-col sm:flex-row items-start sm:items-center justify-between">
         <h3 className="text-lg font-semibold mb-2 lg:mb-0">
           Account Ownership
         </h3>
@@ -52,17 +52,17 @@ const AccountInfo = () => {
         </div>
       </div>
 
-      <div className="border-t border-gray-200 px-4 py-3 flex flex-col lg:flex-row items-center justify-between">
+      <div className="border-t border-gray-200 px-4 py-3 flex flex-col sm:flex-row items-start sm:items-center justify-between">
         <h3 className="text-lg font-semibold mb-2 lg:mb-0">Account Type</h3>
         <p className="text-gray-600 mb-2 lg:mb-0">Checking</p>
       </div>
 
-      <div className="border-t border-gray-200 px-4 py-3 flex flex-col lg:flex-row items-center justify-between">
+      <div className="border-t border-gray-200 px-4 py-3 flex flex-col sm:flex-row items-start sm:items-center justify-between">
         <h3 className="text-lg font-semibold mb-2 lg:mb-0">Tag</h3>
         <p className="text-gray-600 mb-2 italic lg:mb-0">None</p>
       </div>
 
-      <div className="border-t border-gray-200 px-4 py-3 flex flex-col lg:flex-row items-center justify-between">
+      <div className="border-t border-gray-200 px-4 py-3 flex flex-col sm:flex-row items-start sm:items-center justify-between">
         <h3 className="text-lg font-semibold mb-2 lg:mb-0">Created</h3>
         <p className="text-gray-600 font-bold mb-2 lg:mb-0">
           05/13/2024, 01:26 PM
